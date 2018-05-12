@@ -8,7 +8,7 @@ contributor:
     - Benet, Hippolyte Léon
     - Benett, L. (Léon)
     - Benett, Leon
-    birthdate: &id001 1838
+    birthdate: 1838
     deathdate: 1917
     gutenberg_agent_id: '26727'
     url: http://www.gutenberg.org/2009/agents/26727
@@ -24,7 +24,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Paul_Philippoteaux
   - agent_name: Matthis, Charles Émile
     alias: Matthis, Charles Emile
-    birthdate: *id001
+    birthdate: 1838
     gutenberg_agent_id: '31577'
     url: http://www.gutenberg.org/2009/agents/31577
 covers:
@@ -46,6 +46,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25784#Celebrated-Travels-and-Travellers-Part-2.--13-The-Great-Navigators-of-the-Eighteenth-Century
 gutenberg_issued: '2008-06-14'
 gutenberg_type: Text
 identifiers:
